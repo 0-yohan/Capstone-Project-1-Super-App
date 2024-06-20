@@ -1,4 +1,2 @@
-# React + Vite
-
-React Capstone Project
+React Capstone Project 1 | Super App
 
